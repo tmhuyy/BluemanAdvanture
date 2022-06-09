@@ -28,10 +28,18 @@ Moreover, in that spare time, we rediscovered the games of our childhood and wit
 - **Explantion**:
 # Feature
 - **Completed features**:
+The player has the ability to move across the map. <br>
+The player can interact with the map's items: <br>
+    + Shoot fire balls to destroy monsters. <br>
+    + Health point are subtracted when hit by approaching monsters. <br>
+    + Interact and chat with NPCs. <br>
+    + 
+- **Incompleted features**:<br>
+Cannot reply to the NPCs. <br>
+NPCs have not given players bonus questions yet. <br>
 
-- **Incompleted features**:
-
-- **Further develope**:
+- **Further develope**: <br>
+We can expand to 1 more map with the challenge of asking questions related to the data that have been raised from conversations with NPCs in previous games.<br>
 
 # Challenges
 
@@ -63,4 +71,6 @@ Moreover, in that spare time, we rediscovered the games of our childhood and wit
 - To open the door, need the key appeared when **killed the monster**.
 - Hit the monsters, lose HP
 
-### Screenshots   
+### Screenshots   <br>
+![280911837_5311923755534251_4504484721769427235_n](https://user-images.githubusercontent.com/88546384/172925997-afa804d8-2d0d-4a29-85c0-6820b9e901a8.png) <br>
+![284801192_4884681324974391_7761278929049717395_n](https://user-images.githubusercontent.com/88546384/172926126-f942f73f-0c43-42f7-ae42-ab1afb89df56.png) <br>

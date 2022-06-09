@@ -20,6 +20,8 @@ Moreover, in that spare time, we rediscovered the games of our childhood and wit
 # Tech stacks
 - **Language**: 100% Java
 - **Libaries in used**:
+    - import java.io.IOException;
+    - import javax.imageio.ImageIO;
     - import java.awt.event.KeyListener;
     - import java.util.ArrayList;
     - import java.awt.*;
@@ -30,6 +32,7 @@ Moreover, in that spare time, we rediscovered the games of our childhood and wit
     - import java.awt.Graphics2D;
     - import java.awt.image.BufferedImage;
     - import javax.swing.JFrame;
+    - import java.awt.Rectangle;
 # UML Diagram and Explantion
 ![OOP's ULM](https://user-images.githubusercontent.com/88697918/172899439-9cfb8710-b84c-46d5-b53e-270ac09260f9.png)
 

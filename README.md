@@ -49,7 +49,7 @@ Moreover, in that spare time, we rediscovered the games of our childhood and wit
 - **Incompleted features**
     + Cannot reply to the NPCs. 
 NPCs have not given players bonus questions yet. 
-- **Further develope**:
+- **Further develop**:
     + We can expand to 1 more map with the challenge of asking questions related to the data that have been raised from conversations with NPCs in previous games.
 
 # Challenges

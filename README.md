@@ -30,6 +30,7 @@ Moreover, in that spare time, we rediscovered the games of our childhood and wit
     - import java.awt.Graphics2D;
     - import java.awt.image.BufferedImage;
     - import javax.swing.JFrame;
+    - import.util.Random;
 # UML Diagram and Explantion
 ![OOP's ULM](https://user-images.githubusercontent.com/88697918/172899439-9cfb8710-b84c-46d5-b53e-270ac09260f9.png)
 
@@ -58,7 +59,7 @@ NPCs have not given players bonus questions yet.
 #### Jingle Jungle
 - 4-6 NPCs 
 - 5-6 monsters 
-    - Kill monsters to get keys to open the door.
+- Kill monsters to get keys to open the door.
 - 5-10 keys
 
 
@@ -66,7 +67,7 @@ NPCs have not given players bonus questions yet.
 
 - 4-6 NPCs 
 - 4-6 monsters 
-    - Kill monsters to get keys to open the door.
+- Kill monsters to get keys to open the door.
 - 5-10 keys
 
 ### How to play 

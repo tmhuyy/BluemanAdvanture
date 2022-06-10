@@ -33,7 +33,7 @@ The player can interact with the map's items: <br>
     + Shoot fire balls to destroy monsters. <br>
     + Health point are subtracted when hit by approaching monsters. <br>
     + Interact and chat with NPCs. <br>
-    + 
+    + Collecting keys and opening doors.<br>
 - **Incompleted features**:<br>
 Cannot reply to the NPCs. <br>
 NPCs have not given players bonus questions yet. <br>

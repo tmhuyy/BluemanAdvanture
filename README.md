@@ -83,3 +83,7 @@ NPCs have not given players bonus questions yet.
 ### Screenshots   
 ![280911837_5311923755534251_4504484721769427235_n](https://user-images.githubusercontent.com/88546384/172925997-afa804d8-2d0d-4a29-85c0-6820b9e901a8.png) 
 ![284801192_4884681324974391_7761278929049717395_n](https://user-images.githubusercontent.com/88546384/172926126-f942f73f-0c43-42f7-ae42-ab1afb89df56.png) 
+![pic3](https://user-images.githubusercontent.com/88546384/172976664-f4b2b240-508c-4e16-a4a6-1d47fd5be2f2.png)
+![pic4](https://user-images.githubusercontent.com/88546384/172976927-8aeaf857-8d7c-4f67-970d-522a70da1fbb.png)
+![pic5](https://user-images.githubusercontent.com/88546384/172977012-8f4a6867-0dd7-43e0-9125-aef8c777adfa.png)
+

@@ -20,6 +20,8 @@ Moreover, in that spare time, we rediscovered the games of our childhood and wit
 # Tech stacks
 - **Language**: 100% Java
 - **Libaries in used**:
+    - import java.io.IOException;
+    - import javax.imageio.ImageIO;
     - import java.awt.event.KeyListener;
     - import java.util.ArrayList;
     - import java.awt.*;

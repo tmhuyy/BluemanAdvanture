@@ -58,7 +58,7 @@ NPCs have not given players bonus questions yet.
 #### Jingle Jungle
 - 4-6 NPCs 
 - 5-6 monsters 
-    - Kill monsters to get keys to open the door.
+- Kill monsters to get keys to open the door.
 - 5-10 keys
 
 
@@ -66,7 +66,7 @@ NPCs have not given players bonus questions yet.
 
 - 4-6 NPCs 
 - 4-6 monsters 
-    - Kill monsters to get keys to open the door.
+- Kill monsters to get keys to open the door.
 - 5-10 keys
 
 ### How to play 
